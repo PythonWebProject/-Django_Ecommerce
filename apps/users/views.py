@@ -6,3 +6,7 @@ class RegisterView(View):
     def get(self, request):
         '''提供用户注册页面'''
         return render(request, 'register.html')
+
+    def post(self, request):
+        '''提供用户注册逻辑'''
+        pass
