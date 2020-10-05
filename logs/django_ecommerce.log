@@ -106,3 +106,960 @@ INFO 2020-10-04 15:08:30,198 autoreload 578 Watching for file changes with StatR
 INFO 2020-10-04 15:31:03,197 autoreload 578 Watching for file changes with StatReloader
 INFO 2020-10-04 15:35:46,649 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\Django_Ecommerce\dev.py changed, reloading.
 INFO 2020-10-04 15:35:47,602 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-04 21:15:24,496 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-04 21:15:29,380 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4507
+INFO 2020-10-04 21:15:29,858 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 87
+WARNING 2020-10-04 21:15:29,933 log 222 Not Found: /favicon.ico
+INFO 2020-10-04 21:16:14,583 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4507
+INFO 2020-10-04 21:16:14,671 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:14,674 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:14,675 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:14,675 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:14,676 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:14,736 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-04 21:16:14,738 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-04 21:16:14,739 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-04 21:16:14,740 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-10-04 21:16:14,740 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-04 21:16:15,479 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4507
+INFO 2020-10-04 21:16:15,553 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:15,555 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:15,555 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:15,555 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:15,556 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:15,589 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:15,590 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:15,601 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:15,602 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:15,603 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,288 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4507
+INFO 2020-10-04 21:16:16,361 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,362 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,362 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,363 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,363 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,397 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,399 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,403 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,405 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,405 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,747 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4507
+INFO 2020-10-04 21:16:16,827 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,828 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,829 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,829 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,829 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,860 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,863 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,866 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,869 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:16,869 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,048 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4507
+INFO 2020-10-04 21:16:17,124 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,125 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,125 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,126 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,126 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,161 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,162 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,164 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,165 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,165 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,512 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4507
+INFO 2020-10-04 21:16:17,590 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,591 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,592 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,592 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,593 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,628 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,628 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,647 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,647 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:17,648 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-04 21:16:27,953 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 87
+INFO 2020-10-04 21:16:28,600 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4507
+INFO 2020-10-04 21:16:28,686 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-04 21:16:28,688 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 87
+INFO 2020-10-04 21:16:28,688 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-04 21:16:28,689 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-04 21:16:28,692 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-04 21:16:28,748 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-04 21:16:28,748 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-04 21:16:28,767 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-04 21:16:28,767 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-04 21:16:28,768 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-04 21:16:28,873 log 222 Not Found: /favicon.ico
+WARNING 2020-10-04 21:16:28,875 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-04 21:19:01,005 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-04 21:19:03,735 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4507
+INFO 2020-10-04 21:19:03,896 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-04 21:19:03,898 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-04 21:19:03,898 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 87
+INFO 2020-10-04 21:19:03,899 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-04 21:19:03,901 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-04 21:19:04,053 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-04 21:19:04,054 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-04 21:19:04,056 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-04 21:19:04,056 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-04 21:19:04,058 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-04 21:19:04,273 log 222 Not Found: /favicon.ico
+WARNING 2020-10-04 21:19:04,274 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-04 21:19:05,606 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4507
+INFO 2020-10-04 21:19:05,764 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-04 21:19:05,765 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-04 21:19:05,766 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-04 21:19:05,767 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 87
+INFO 2020-10-04 21:19:05,768 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-04 21:19:05,906 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-04 21:19:05,907 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-04 21:19:05,908 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-04 21:19:05,909 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-04 21:19:05,910 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-04 21:19:06,036 log 222 Not Found: /favicon.ico
+WARNING 2020-10-04 21:19:06,036 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:44:55,444 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 08:44:58,087 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:44:58,692 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:44:58,693 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1327
+INFO 2020-10-05 08:44:58,693 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 08:44:58,695 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:44:58,696 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:44:58,835 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 08:44:58,835 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:44:58,836 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:44:58,836 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:44:58,839 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 08:44:58,884 log 222 Not Found: /favicon.ico
+INFO 2020-10-05 08:45:02,591 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:45:02,728 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:02,729 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:02,731 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:02,732 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:02,733 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:02,826 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:02,827 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:02,849 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:02,850 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:02,851 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:03,650 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:45:03,771 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:03,774 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:03,775 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:03,775 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:03,776 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:03,957 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:03,958 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:03,959 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:03,960 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 08:45:03,961 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 08:46:05,024 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:46:05,359 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:46:05,360 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:46:05,376 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:46:05,378 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1327
+INFO 2020-10-05 08:46:05,379 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:46:06,347 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:46:06,348 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:46:06,349 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:46:06,350 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-10-05 08:46:06,352 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2020-10-05 08:46:06,619 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:46:06,619 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:47:43,323 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:47:43,556 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:47:43,562 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:47:43,566 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1327
+INFO 2020-10-05 08:47:43,566 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:47:43,567 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:47:44,277 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:47:44,325 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:47:44,338 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 08:47:44,340 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:47:44,343 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 08:47:44,658 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:47:44,659 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:53:29,041 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 08:53:31,676 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4548
+INFO 2020-10-05 08:53:31,931 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:53:31,933 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1327
+INFO 2020-10-05 08:53:31,934 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:53:31,935 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:53:31,940 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:53:32,097 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:53:32,097 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:53:32,202 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:53:32,207 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-10-05 08:53:32,317 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2020-10-05 08:53:32,546 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:53:32,547 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:56:00,425 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 08:56:01,592 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:56:01,757 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:56:01,759 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1327
+INFO 2020-10-05 08:56:01,760 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:56:01,761 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:56:01,764 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:56:02,015 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:56:02,017 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 08:56:02,019 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:56:02,021 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-10-05 08:56:02,025 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+WARNING 2020-10-05 08:56:02,362 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:56:02,363 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:56:02,989 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:56:03,135 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:56:03,139 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:56:03,140 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1327
+INFO 2020-10-05 08:56:03,140 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:56:03,143 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:56:03,312 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:56:03,312 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:56:03,314 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 08:56:03,316 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:56:03,317 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 08:56:03,674 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:56:03,675 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:56:04,095 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:56:04,441 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:56:04,443 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1327
+INFO 2020-10-05 08:56:04,444 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:56:04,445 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:56:04,450 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:56:04,572 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:56:04,573 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:56:04,628 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:56:04,631 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 08:56:04,632 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 08:56:04,924 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:56:04,924 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:56:04,996 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:56:05,151 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:56:05,156 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1327
+INFO 2020-10-05 08:56:05,156 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:56:05,156 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:56:05,159 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:56:05,281 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:56:05,284 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:56:05,285 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:56:05,286 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 08:56:05,287 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 08:56:05,576 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:56:05,577 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:56:28,775 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 08:56:29,978 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:56:30,339 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:56:30,340 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:56:30,340 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 3171
+INFO 2020-10-05 08:56:30,341 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:56:30,349 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:56:30,500 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:56:30,571 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:56:30,573 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 08:56:30,573 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:56:30,575 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 08:56:30,712 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:56:30,713 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:56:31,547 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:56:32,023 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:56:32,036 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 3171
+INFO 2020-10-05 08:56:32,037 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:56:32,038 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:56:32,045 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:56:32,196 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:56:32,199 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:56:32,199 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:56:32,200 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 08:56:32,202 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 08:56:32,519 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:56:32,520 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:56:32,603 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4556
+INFO 2020-10-05 08:56:32,902 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:56:32,909 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:56:32,912 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:56:32,914 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 3171
+INFO 2020-10-05 08:56:32,917 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:56:33,042 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:56:33,044 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:56:33,046 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:56:33,047 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 08:56:33,047 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 08:56:33,249 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:56:33,250 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:58:03,718 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 08:58:07,957 basehttp 154 "GET /users/register/ HTTP/1.1" 200 3784
+INFO 2020-10-05 08:58:08,277 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:58:08,278 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:58:08,278 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1327
+INFO 2020-10-05 08:58:08,281 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:58:08,287 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:58:08,317 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:58:08,318 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:58:08,450 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:58:08,453 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 08:58:08,454 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 08:58:08,681 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:58:08,682 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:59:04,898 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 08:59:08,721 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4557
+INFO 2020-10-05 08:59:09,156 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 08:59:09,158 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 08:59:09,162 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1327
+INFO 2020-10-05 08:59:09,169 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 08:59:09,174 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 08:59:09,176 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 08:59:09,179 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 08:59:09,315 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 08:59:09,318 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 08:59:09,319 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 08:59:09,417 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 08:59:09,418 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2088
+INFO 2020-10-05 08:59:29,819 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4557
+INFO 2020-10-05 08:59:29,944 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 08:59:29,946 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 08:59:29,948 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 08:59:29,948 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 08:59:29,948 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 08:59:29,954 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 08:59:29,955 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 08:59:30,008 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 08:59:30,010 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 08:59:30,011 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:00:33,495 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4557
+INFO 2020-10-05 09:00:33,958 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:00:33,964 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:00:33,978 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:00:33,980 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:00:33,985 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:00:33,992 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:00:33,993 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:00:34,126 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:00:34,130 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:00:34,131 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:48,027 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4607
+INFO 2020-10-05 09:02:48,496 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:48,507 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:48,522 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:48,525 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:48,527 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:48,529 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:48,530 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:48,629 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:48,630 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:48,631 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:49,641 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4607
+INFO 2020-10-05 09:02:50,102 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,106 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,108 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,115 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,120 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,125 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,128 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,251 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,254 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,258 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,741 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4607
+INFO 2020-10-05 09:02:50,923 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,925 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,930 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,935 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,936 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,939 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:50,940 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:51,019 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:51,020 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:02:51,022 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:05:26,831 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4607
+INFO 2020-10-05 09:05:27,071 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:05:27,084 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:05:27,086 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:05:27,089 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:05:27,089 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:05:27,094 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:05:27,095 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:05:27,176 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:05:27,178 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:05:27,179 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:14:09,912 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:14:10,288 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:14:10,297 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:14:10,301 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:14:10,302 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:14:10,305 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1614
+INFO 2020-10-05 09:14:10,306 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:14:10,307 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:14:10,351 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:14:10,353 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:14:10,354 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:08,695 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:18:09,079 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:09,094 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:09,109 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:09,114 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:09,114 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:09,115 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:09,115 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1779
+INFO 2020-10-05 09:18:09,151 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:09,153 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:09,154 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:27,959 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:18:28,200 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:28,203 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:28,213 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:28,215 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:28,216 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:28,221 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:28,222 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:28,312 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:28,313 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:18:28,316 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+WARNING 2020-10-05 09:18:30,748 log 222 Forbidden (CSRF token missing or incorrect.): /users/register/
+WARNING 2020-10-05 09:18:30,749 basehttp 154 "POST /users/register/ HTTP/1.1" 403 2513
+INFO 2020-10-05 09:18:33,680 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:21:07,724 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:21:08,119 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:21:08,121 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:21:08,125 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:21:08,125 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:21:08,129 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1646
+INFO 2020-10-05 09:21:08,130 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:21:08,131 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:21:08,187 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:21:08,189 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:21:08,189 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:22:52,667 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:22:52,800 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:22:52,803 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:22:52,808 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:22:52,810 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:22:52,810 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:22:52,813 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:22:52,814 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:22:52,872 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:22:52,873 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:22:52,877 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:34:09,052 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:34:09,174 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:34:09,185 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:34:09,188 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:34:09,191 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:34:09,192 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:34:09,193 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:34:09,193 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:34:09,252 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:34:09,253 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:34:09,254 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:35:57,816 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 09:36:10,637 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:36:10,967 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:36:10,974 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:36:10,974 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:36:10,975 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:36:10,975 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:36:10,986 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:36:10,988 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:36:11,067 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:36:11,072 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:36:11,073 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:37:21,797 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:37:21,904 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:37:21,906 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:37:21,908 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:37:21,908 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:37:21,911 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1652
+INFO 2020-10-05 09:37:21,914 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:37:21,914 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:37:21,949 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:37:21,950 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:37:21,951 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:06,059 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:38:06,342 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:06,345 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:06,346 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:06,348 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:06,352 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1652
+INFO 2020-10-05 09:38:06,353 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:06,356 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:06,413 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:06,413 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:06,413 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:25,725 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:38:26,019 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:26,020 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:26,025 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:26,028 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:26,029 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:26,031 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:26,031 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:26,085 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:26,087 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:38:26,090 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:02,940 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:39:03,054 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:03,056 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:03,058 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:03,060 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:03,062 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1646
+INFO 2020-10-05 09:39:03,064 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:03,065 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:03,103 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:03,103 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:03,104 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:27,255 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4633
+INFO 2020-10-05 09:39:27,356 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:27,359 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:27,360 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:27,362 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:27,364 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:27,368 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:27,369 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:27,418 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:27,421 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:39:27,422 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:22,060 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4795
+INFO 2020-10-05 09:49:22,414 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:22,423 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:22,424 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:22,425 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:22,427 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 1913
+INFO 2020-10-05 09:49:22,432 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:22,432 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:22,484 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:22,485 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:22,486 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:35,495 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4795
+INFO 2020-10-05 09:49:35,783 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:35,784 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:35,786 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:35,787 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:35,792 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:35,794 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:35,794 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:35,840 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:35,841 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 09:49:35,842 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+ERROR 2020-10-05 09:50:32,155 basehttp 154 "POST /users/register/ HTTP/1.1" 500 59
+INFO 2020-10-05 09:53:20,784 autoreload 203 C:\Users\LENOVO\.virtualenvs\Django_Project-aNd3oR6l\Lib\site-packages\django\views\debug.py changed, reloading.
+INFO 2020-10-05 09:53:22,358 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 09:56:25,088 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:03:08,261 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 10:03:09,555 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:07:44,203 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 10:07:45,782 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:08:14,492 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 10:08:15,875 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:10:04,996 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 10:10:06,587 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:10:47,910 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 10:10:48,970 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:10:57,639 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 10:10:58,635 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:11:37,941 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 10:11:38,974 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:12:06,949 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 10:12:08,016 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:13:51,325 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:27:47,854 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 10:27:49,296 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:41:13,112 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 10:41:22,636 basehttp 154 "POST /users/register/ HTTP/1.1" 200 6
+INFO 2020-10-05 10:41:24,531 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 10:41:52,198 basehttp 154 "POST /users/register/ HTTP/1.1" 200 6
+INFO 2020-10-05 10:42:22,753 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:42:25,338 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 10:42:32,479 basehttp 154 "POST /users/register/ HTTP/1.1" 200 6
+INFO 2020-10-05 10:44:03,865 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 10:44:05,117 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:44:11,760 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 10:44:12,918 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:45:10,888 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 10:45:11,932 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:45:53,076 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 10:45:54,153 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:47:40,862 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 10:47:41,892 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:49:08,072 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 10:49:09,109 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:50:00,972 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:50:26,913 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 10:50:27,979 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:50:48,227 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 10:50:49,180 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:50:59,091 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 10:51:00,118 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:51:20,231 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 10:51:21,289 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 10:52:24,419 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 10:52:25,520 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 11:03:27,789 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 11:03:28,083 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 11:03:28,086 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-10-05 11:03:30,559 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 11:03:30,659 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 11:03:30,666 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:03:30,666 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:03:30,666 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 11:03:30,666 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:03:30,672 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:03:30,687 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 11:03:30,731 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:03:30,732 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:03:30,732 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+ERROR 2020-10-05 11:04:15,357 log 222 Internal Server Error: /users/register/
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\.virtualenvs\Django_Project-aNd3oR6l\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\LENOVO\.virtualenvs\Django_Project-aNd3oR6l\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\LENOVO\.virtualenvs\Django_Project-aNd3oR6l\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\LENOVO\.virtualenvs\Django_Project-aNd3oR6l\lib\site-packages\django\views\generic\base.py", line 71, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\LENOVO\.virtualenvs\Django_Project-aNd3oR6l\lib\site-packages\django\views\generic\base.py", line 97, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py", line 17, in post
+    if form.is_valid():
+  File "C:\Users\LENOVO\.virtualenvs\Django_Project-aNd3oR6l\lib\site-packages\django\forms\forms.py", line 185, in is_valid
+    return self.is_bound and not self.errors
+  File "C:\Users\LENOVO\.virtualenvs\Django_Project-aNd3oR6l\lib\site-packages\django\forms\forms.py", line 180, in errors
+    self.full_clean()
+  File "C:\Users\LENOVO\.virtualenvs\Django_Project-aNd3oR6l\lib\site-packages\django\forms\forms.py", line 382, in full_clean
+    self._clean_form()
+  File "C:\Users\LENOVO\.virtualenvs\Django_Project-aNd3oR6l\lib\site-packages\django\forms\forms.py", line 409, in _clean_form
+    cleaned_data = self.clean()
+  File "C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py", line 27, in clean
+    cleaned_data = super().cleaned_data
+AttributeError: 'super' object has no attribute 'cleaned_data'
+ERROR 2020-10-05 11:04:15,359 basehttp 154 "POST /users/register/ HTTP/1.1" 500 103758
+INFO 2020-10-05 11:05:36,275 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\forms.py changed, reloading.
+INFO 2020-10-05 11:05:37,489 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 11:05:58,337 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 11:05:59,558 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 11:05:59,658 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 11:05:59,667 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:05:59,667 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 11:05:59,668 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:05:59,668 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:05:59,671 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:05:59,672 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 11:05:59,706 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:05:59,707 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:05:59,708 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:06:21,753 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 11:06:21,855 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 11:06:21,856 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 11:06:21,857 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:06:21,859 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:06:21,862 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:06:21,864 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:06:21,865 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 11:06:21,911 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:06:21,911 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:06:21,913 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:06:42,233 basehttp 154 "POST /users/register/ HTTP/1.1" 200 6
+INFO 2020-10-05 11:06:45,667 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 11:07:05,320 basehttp 154 "POST /users/register/ HTTP/1.1" 200 6
+INFO 2020-10-05 11:07:39,693 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 11:07:49,706 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 11:07:49,798 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 11:07:49,800 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 11:07:49,801 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:07:49,803 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:07:49,803 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 11:07:49,811 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:07:49,814 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 11:07:49,848 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:07:49,849 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:07:49,850 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 11:08:08,754 basehttp 154 "POST /users/register/ HTTP/1.1" 200 6
+INFO 2020-10-05 11:08:11,594 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 11:08:29,240 basehttp 154 "POST /users/register/ HTTP/1.1" 302 0
+INFO 2020-10-05 11:08:29,272 basehttp 154 "GET / HTTP/1.1" 200 38951
+WARNING 2020-10-05 11:08:29,448 basehttp 154 "GET /static/js/index.js HTTP/1.1" 404 1657
+WARNING 2020-10-05 11:08:29,508 basehttp 154 "GET /static/js/index.js HTTP/1.1" 404 1657
+INFO 2020-10-05 14:39:27,832 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\urls.py changed, reloading.
+INFO 2020-10-05 14:39:29,143 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 14:42:02,584 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\urls.py changed, reloading.
+INFO 2020-10-05 14:42:03,448 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 14:44:29,654 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\urls.py changed, reloading.
+INFO 2020-10-05 14:44:30,678 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 14:44:46,778 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\urls.py changed, reloading.
+INFO 2020-10-05 14:44:47,667 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 14:45:05,338 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\urls.py changed, reloading.
+INFO 2020-10-05 14:45:06,187 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 14:45:46,451 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\urls.py changed, reloading.
+INFO 2020-10-05 14:45:47,348 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 14:46:06,504 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\urls.py changed, reloading.
+INFO 2020-10-05 14:46:07,403 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 14:47:23,649 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\urls.py changed, reloading.
+INFO 2020-10-05 14:47:24,615 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 14:47:50,824 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 14:47:51,797 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 14:49:31,527 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 14:49:32,545 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 14:49:48,955 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 14:49:49,984 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 14:51:38,273 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\urls.py changed, reloading.
+INFO 2020-10-05 14:51:39,425 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 15:01:57,251 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 15:01:59,480 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 15:01:59,606 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:01:59,608 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:01:59,608 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:01:59,610 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:01:59,612 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 2704
+INFO 2020-10-05 15:01:59,613 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:01:59,613 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 15:01:59,645 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:01:59,646 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:01:59,647 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:02:00,274 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 15:02:00,365 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:02:00,366 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:02:00,367 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:02:00,367 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:02:00,368 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:02:00,370 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:02:00,371 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 15:02:00,398 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:02:00,399 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:02:00,400 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:02:26,180 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 15:02:26,423 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 15:02:26,424 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 2704
+INFO 2020-10-05 15:02:26,425 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 15:02:26,426 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 15:02:26,430 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 15:02:26,431 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 15:02:26,431 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 15:02:26,597 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 15:02:26,598 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-10-05 15:02:26,599 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2020-10-05 15:02:26,915 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 15:02:26,916 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2249
+INFO 2020-10-05 15:02:33,004 basehttp 154 "GET /users/usernames/corley/count/ HTTP/1.1" 200 39
+INFO 2020-10-05 15:10:45,361 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 15:10:46,497 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 15:12:33,399 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 15:12:34,332 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 15:12:51,134 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 15:12:52,130 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 15:16:32,254 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 15:16:32,440 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 15:16:32,442 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 15:16:32,442 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 15:16:32,443 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 2704
+INFO 2020-10-05 15:16:32,449 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 15:16:32,449 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 15:16:32,451 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 15:16:32,649 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 15:16:32,650 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 15:16:32,651 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 15:16:32,834 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 15:16:32,834 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2249
+INFO 2020-10-05 15:17:12,697 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 15:17:12,847 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 15:17:12,849 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 15:17:12,849 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 2704
+INFO 2020-10-05 15:17:12,849 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 15:17:12,855 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 15:17:12,856 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 15:17:12,856 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 15:17:12,988 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 15:17:12,992 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 15:17:12,993 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 15:17:13,173 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 15:17:13,175 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2249
+INFO 2020-10-05 15:17:29,521 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 15:17:29,644 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 15:17:29,645 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 2704
+INFO 2020-10-05 15:17:29,646 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 15:17:29,648 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 15:17:29,653 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 15:17:29,657 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 15:17:29,657 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 15:17:29,737 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 15:17:29,737 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 15:17:29,738 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 15:17:29,981 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 15:17:29,982 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2249
+INFO 2020-10-05 15:17:52,956 basehttp 154 "GET /users/usernames/jackie/count/ HTTP/1.1" 200 39
+INFO 2020-10-05 15:18:12,200 basehttp 154 "POST /users/register/ HTTP/1.1" 302 0
+INFO 2020-10-05 15:18:12,235 basehttp 154 "GET / HTTP/1.1" 200 38951
+INFO 2020-10-05 15:18:12,461 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 15:18:12,467 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 15:18:12,470 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 15:18:12,472 basehttp 154 "GET /static/js/common.js HTTP/1.1" 200 891
+INFO 2020-10-05 15:18:12,473 basehttp 154 "GET /static/js/slide.js HTTP/1.1" 200 1822
+INFO 2020-10-05 15:18:12,477 basehttp 154 "GET /static/js/jquery-1.12.4.min.js HTTP/1.1" 200 97163
+INFO 2020-10-05 15:18:12,480 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+WARNING 2020-10-05 15:18:12,480 basehttp 154 "GET /static/js/index.js HTTP/1.1" 404 1657
+INFO 2020-10-05 15:18:12,496 basehttp 154 "GET /static/images/goods/goods001.jpg HTTP/1.1" 200 5391
+INFO 2020-10-05 15:18:12,498 basehttp 154 "GET /static/images/slide02.jpg HTTP/1.1" 200 89905
+INFO 2020-10-05 15:18:12,499 basehttp 154 "GET /static/images/goods/goods002.jpg HTTP/1.1" 200 5377
+INFO 2020-10-05 15:18:12,500 basehttp 154 "GET /static/images/slide01.jpg HTTP/1.1" 200 67813
+INFO 2020-10-05 15:18:12,502 basehttp 154 "GET /static/images/slide03.jpg HTTP/1.1" 200 70152
+INFO 2020-10-05 15:18:12,508 basehttp 154 "GET /static/images/adv01.jpg HTTP/1.1" 200 39831
+INFO 2020-10-05 15:18:12,511 basehttp 154 "GET /static/images/slide04.jpg HTTP/1.1" 200 107973
+INFO 2020-10-05 15:18:12,513 basehttp 154 "GET /static/images/goods/goods005.jpg HTTP/1.1" 200 7578
+INFO 2020-10-05 15:18:12,513 basehttp 154 "GET /static/images/goods/goods003.jpg HTTP/1.1" 200 8579
+INFO 2020-10-05 15:18:12,513 basehttp 154 "GET /static/images/goods/goods004.jpg HTTP/1.1" 200 6565
+INFO 2020-10-05 15:18:12,514 basehttp 154 "GET /static/images/banner01.jpg HTTP/1.1" 200 23658
+INFO 2020-10-05 15:18:12,517 basehttp 154 "GET /static/images/banner02.jpg HTTP/1.1" 200 26729
+INFO 2020-10-05 15:18:12,520 basehttp 154 "GET /static/images/goods/goods009.jpg HTTP/1.1" 200 8738
+INFO 2020-10-05 15:18:12,521 basehttp 154 "GET /static/images/banner03.jpg HTTP/1.1" 200 22681
+INFO 2020-10-05 15:18:12,521 basehttp 154 "GET /static/images/goods/goods008.jpg HTTP/1.1" 200 7072
+INFO 2020-10-05 15:18:12,842 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 15:18:12,843 basehttp 154 "GET /static/images/icons.png HTTP/1.1" 200 7740
+WARNING 2020-10-05 15:18:12,845 basehttp 154 "GET /static/js/index.js HTTP/1.1" 404 1657
+WARNING 2020-10-05 15:18:12,939 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 15:18:12,940 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2249
+INFO 2020-10-05 15:29:16,360 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 15:29:17,766 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 15:29:25,430 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 15:29:25,681 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 15:29:25,682 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 3499
+INFO 2020-10-05 15:29:25,683 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 15:29:25,688 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 15:29:25,696 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 15:29:25,696 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 15:29:25,696 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 15:29:25,847 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 15:29:25,848 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 15:29:25,849 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 15:29:26,088 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 15:29:26,089 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2249
+INFO 2020-10-05 15:29:37,307 basehttp 154 "GET /users/mobiles/13311111111/count/ HTTP/1.1" 200 39
+INFO 2020-10-05 15:30:01,961 basehttp 154 "GET /users/mobiles/13311111111/count/ HTTP/1.1" 200 39
+INFO 2020-10-05 15:30:08,216 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 15:30:15,381 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4775
+INFO 2020-10-05 15:30:15,531 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 3499
+INFO 2020-10-05 15:30:15,532 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 15:30:15,534 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 15:30:15,534 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 15:30:15,540 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 15:30:15,540 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 15:30:15,541 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 15:30:15,668 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 15:30:15,669 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 15:30:15,670 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 15:30:15,893 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 15:30:15,895 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2249
+INFO 2020-10-05 15:30:21,970 basehttp 154 "GET /users/mobiles/13311111111/count/ HTTP/1.1" 200 39
+INFO 2020-10-05 15:33:29,452 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\users\views.py changed, reloading.
+INFO 2020-10-05 15:33:30,575 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 15:44:27,396 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4960
+INFO 2020-10-05 15:44:27,549 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:27,549 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:27,550 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:27,551 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:27,552 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:27,553 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:27,554 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:27,594 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:27,594 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:27,595 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:48,633 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4960
+INFO 2020-10-05 15:44:48,764 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:48,765 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:48,767 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:48,769 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:48,769 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:48,771 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:48,771 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:48,807 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:48,810 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:44:48,810 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:45:09,719 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 15:45:13,739 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4960
+INFO 2020-10-05 15:45:13,863 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 15:45:13,864 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 15:45:13,874 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 15:45:13,874 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 15:45:13,875 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 15:45:13,876 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 3499
+INFO 2020-10-05 15:45:13,877 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 15:45:13,932 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 15:45:13,936 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-10-05 15:45:13,937 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2020-10-05 15:45:14,023 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 15:45:14,027 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2249
+INFO 2020-10-05 15:45:31,935 basehttp 154 "POST /users/register/ HTTP/1.1" 200 5689
+INFO 2020-10-05 15:45:32,092 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 15:45:32,093 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 3499
+INFO 2020-10-05 15:45:32,094 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 15:45:32,094 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 15:45:32,099 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 15:45:32,099 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 15:45:32,100 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 15:45:32,318 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 15:45:32,320 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+INFO 2020-10-05 15:45:32,321 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+WARNING 2020-10-05 15:45:32,452 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 15:45:32,453 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2249
+INFO 2020-10-05 15:46:38,598 basehttp 154 "POST /users/register/ HTTP/1.1" 200 5689
+INFO 2020-10-05 15:46:38,707 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:38,708 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:38,709 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:38,709 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:38,710 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:38,713 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:38,714 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:38,749 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:38,752 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:38,754 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:41,112 basehttp 154 "POST /users/register/ HTTP/1.1" 200 5689
+INFO 2020-10-05 15:46:41,198 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:41,199 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:41,201 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:41,202 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:41,203 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:41,205 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:41,205 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:41,246 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:41,248 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:41,248 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:46:47,839 basehttp 154 "POST /users/register/ HTTP/1.1" 200 5689
+INFO 2020-10-05 15:46:47,927 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 200 638
+INFO 2020-10-05 15:46:47,929 basehttp 154 "GET /static/css/main.css HTTP/1.1" 200 40091
+INFO 2020-10-05 15:46:47,931 basehttp 154 "GET /static/js/register.js HTTP/1.1" 200 3499
+INFO 2020-10-05 15:46:47,932 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 200 12941
+INFO 2020-10-05 15:46:47,935 basehttp 154 "GET /static/images/1.png HTTP/1.1" 200 3555
+INFO 2020-10-05 15:46:47,936 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 200 4507
+INFO 2020-10-05 15:46:47,937 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 200 289307
+INFO 2020-10-05 15:46:47,961 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 200 1123
+INFO 2020-10-05 15:46:47,961 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 200 3935
+INFO 2020-10-05 15:46:47,962 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 200 54894
+WARNING 2020-10-05 15:46:48,030 log 222 Not Found: /favicon.ico
+WARNING 2020-10-05 15:46:48,032 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2249
+INFO 2020-10-05 15:46:51,715 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4960
+INFO 2020-10-05 15:47:10,032 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4960
+INFO 2020-10-05 15:47:10,133 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:10,134 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:10,137 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:10,138 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:10,140 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:10,141 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:10,141 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:10,170 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:10,170 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:10,171 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:11,632 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4960
+INFO 2020-10-05 15:47:11,709 basehttp 154 "GET /static/css/reset.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:11,710 basehttp 154 "GET /static/css/main.css HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:11,711 basehttp 154 "GET /static/js/vue-2.5.16.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:11,713 basehttp 154 "GET /static/js/register.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:11,713 basehttp 154 "GET /static/js/axios-0.18.0.min.js HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:11,714 basehttp 154 "GET /static/images/1.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:11,715 basehttp 154 "GET /static/images/pic_code.jpg HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:11,739 basehttp 154 "GET /static/images/icons02.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:11,739 basehttp 154 "GET /static/images/interval_line.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:11,740 basehttp 154 "GET /static/images/register_banner.png HTTP/1.1" 304 0
+INFO 2020-10-05 15:47:24,297 basehttp 154 "POST /users/register/ HTTP/1.1" 200 5689
+WARNING 2020-10-05 16:18:03,199 log 222 Not Found: /verifications/image_codes/26b33f5d-8dba-445b-a920-140dbcbc8e02
+WARNING 2020-10-05 16:18:03,201 basehttp 154 "GET /verifications/image_codes/26b33f5d-8dba-445b-a920-140dbcbc8e02 HTTP/1.1" 404 2402
+WARNING 2020-10-05 16:18:03,445 log 222 Not Found: /favicon.ico
+INFO 2020-10-05 16:18:29,110 autoreload 578 Watching for file changes with StatReloader
+INFO 2020-10-05 16:18:31,499 basehttp 154 "GET /verifications/image_codes/26b33f5d-8dba-445b-a920-140dbcbc8e02 HTTP/1.1" 301 0
+INFO 2020-10-05 16:18:31,539 basehttp 154 "GET /verifications/image_codes/26b33f5d-8dba-445b-a920-140dbcbc8e02/ HTTP/1.1" 200 15
+INFO 2020-10-05 17:09:27,538 autoreload 203 C:\Users\LENOVO\Desktop\Study\逻辑教育Python开发全栈\Python_Full_Stack_LogicEDU\Django_Project\Django_Ecommerce\apps\verifications\urls.py changed, reloading.
+INFO 2020-10-05 17:09:28,823 autoreload 578 Watching for file changes with StatReloader
