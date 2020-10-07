@@ -5,6 +5,7 @@ from django.contrib.auth import login
 
 from .forms import RegisterForm
 from .models import User
+from utils.response_code import RETCODE, err_msg
 
 class RegisterView(View):
     '''用户注册'''
@@ -42,7 +43,7 @@ class UsernameExists(View):
         :return: json
         '''
         count = User.objects.filter(username=username).count()
-        return JsonResponse({'code': 0, 'errmsg': 'OK', 'count': count})
+        return JsonResponse({'code': RETCODE.OK, 'errmsg': err_msg.get('OK'), 'count': count})
 
 
 class MobileExists(View):
@@ -53,4 +54,4 @@ class MobileExists(View):
         :return: json
         '''
         count = User.objects.filter(mobile=mobile).count()
-        return JsonResponse({'code': 0, 'errmsg': 'OK', 'count': count})
+        return JsonResponse({'code': RETCODE.OK, 'errmsg': err_msg.get('OK'), 'count': count})
