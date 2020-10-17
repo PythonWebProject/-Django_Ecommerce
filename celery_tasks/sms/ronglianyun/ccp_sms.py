@@ -2,9 +2,9 @@ import json
 
 from ronglian_sms_sdk import SmsSDK
 
-accId = 'xxxxxxa874af5fff0174fbf69exxxxxx'
-accToken = 'xxxxxx0c9bc44d68ac2fa577ddxxxxxx'
-appId = 'xxxxxxa874af5fff0174fbf69fxxxxxx'
+accId = '8a216da874af5fff0174fbf69e2818f1'
+accToken = 'b2ffad0c9bc44d68ac2fa577ddb3ee1a'
+appId = '8a216da874af5fff0174fbf69f1318f8'
 
 
 class CCP(object):

@@ -8,6 +8,7 @@ class RegisterForm(forms.Form):
     password2 = forms.CharField(min_length=8, max_length=20)
     allow = forms.BooleanField()
     mobile = forms.CharField(min_length=11, max_length=11, required=True, error_messages={'min_length': '手机号应为11位', 'max_length': '手机号应为11位', 'required': '手机号必填'})
+    sms_code = forms.CharField(max_length=6, min_length=6, required=True)
 
     def clean_username(self):
         username = self.cleaned_data.get('username')

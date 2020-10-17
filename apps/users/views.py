@@ -2,6 +2,7 @@ from django.shortcuts import render, redirect, reverse
 from django.views import View
 from django.http import HttpResponse, JsonResponse
 from django.contrib.auth import login
+from django_redis import get_redis_connection
 
 from .forms import RegisterForm
 from .models import User
@@ -20,6 +21,14 @@ class RegisterView(View):
             username = form.cleaned_data.get('username')
             password = form.cleaned_data.get('password')
             mobile = form.cleaned_data.get('mobile')
+            sms_code_client = form.cleaned_data.get('sms_code')
+            # 判断短信验证码是否正确
+            redis_conn = get_redis_connection('verify_code')
+            sms_code_server = redis_conn.get('sms_%s' % mobile)
+            if sms_code_server is None:
+                return render(request, 'register.html', {'sms_code_errmsg': '短信验证码已失效'})
+            if sms_code_client != sms_code_server.decode():
+                return render(request, 'register.html', {'sms_code_errmsg': '短信验证码有误'})
             try:
                 user = User.objects.create_user(username=username, password=password, mobile=mobile)
             except:
