@@ -198,3 +198,6 @@ LOGGING = {
 
 # 自定义用户模型路径
 AUTH_USER_MODEL = 'users.User'
+
+# 自定义后端用户验证
+AUTHENTICATION_BACKENDS = ['users.utils.UsernameMobileBackend']

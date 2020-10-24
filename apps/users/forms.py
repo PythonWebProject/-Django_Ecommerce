@@ -31,3 +31,8 @@ class RegisterForm(forms.Form):
         if password != password2:
             raise forms.ValidationError('两次密码不一致')
         return cleaned_data
+
+
+class LoginForm(forms.Form):
+    username = forms.CharField(min_length=5, max_length=20)
+    password = forms.CharField(min_length=8, max_length=20)

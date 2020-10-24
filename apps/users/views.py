@@ -1,15 +1,17 @@
 from django.shortcuts import render, redirect, reverse
 from django.views import View
-from django.http import HttpResponse, JsonResponse
-from django.contrib.auth import login
+from django.http import JsonResponse
+from django.contrib.auth import login, authenticate
 from django_redis import get_redis_connection
 
-from .forms import RegisterForm
+from .forms import RegisterForm, LoginForm
 from .models import User
 from utils.response_code import RETCODE, err_msg
 
+
 class RegisterView(View):
     '''用户注册'''
+
     def get(self, request):
         '''提供用户注册页面'''
         return render(request, 'register.html')
@@ -46,6 +48,7 @@ class RegisterView(View):
 
 class UsernameExists(View):
     '''判断用户名是否存在'''
+
     def get(self, request, username):
         '''
         :param username: 用户名
@@ -57,6 +60,7 @@ class UsernameExists(View):
 
 class MobileExists(View):
     '''判断手机号是否存在'''
+
     def get(self, request, mobile):
         '''
         :param username: 用户名
@@ -64,3 +68,46 @@ class MobileExists(View):
         '''
         count = User.objects.filter(mobile=mobile).count()
         return JsonResponse({'code': RETCODE.OK, 'errmsg': err_msg.get('OK'), 'count': count})
+
+
+class LoginView(View):
+    '''用户名登录'''
+
+    def get(self, request):
+        '''
+        提供登录页面
+        :return: 登录页面
+        '''
+        return render(request, 'login.html')
+
+    def post(self, request):
+        '''
+        实现登录逻辑
+        '''
+        # 验证表单
+        login_form = LoginForm(request.POST)
+        if login_form.is_valid():
+            # 接收参数
+            username = login_form.cleaned_data.get('username')
+            password = login_form.cleaned_data.get('password')
+            remembered = request.POST.get('remembered')
+            # 认证登录用户
+            user = authenticate(username=username, password=password)
+            if user is None:
+                # 用户名或密码输入错误
+                return render(request, 'login.html', {'errmsg': '账号不存在或密码错误'})
+            # 状态保持
+            login(request, user)
+            if remembered != 'on':
+                request.session.set_expiry(0)
+            else:
+                request.session.set_expiry(None)
+            response = redirect(reverse('contents:index'))
+            response.set_cookie('username', user.username, max_age=60*60*24*14)
+            return response
+        else:
+            print(login_form.errors.get_json_data())
+            context = {
+                'forms_errors': login_form.errors
+            }
+            return render(request, 'login.html', context=context)
